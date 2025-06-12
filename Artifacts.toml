@@ -1,0 +1,20 @@
+[[AOCL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b872022c0f6d5669f95741d3788d56fb652900a6"
+libc = "glibc"
+os = "linux"
+
+    [[AOCL.download]]
+    sha256 = "f3d8f55d09d863b6085317e675a08829c1db692df9da01ecea018d7481f6b209"
+    url = "https://github.com/amd/AOCL_jll.jl/releases/download/AOCL-v5.1.0+0/AOCL.v5.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[AOCL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b872022c0f6d5669f95741d3788d56fb652900a6"
+libc = "glibc"
+os = "linux"
+
+    [[AOCL.download]]
+    sha256 = "f3d8f55d09d863b6085317e675a08829c1db692df9da01ecea018d7481f6b209"
+    url = "https://github.com/amd/AOCL_jll.jl/releases/download/AOCL-v5.1.0+0/AOCL.v5.1.0.x86_64-linux-gnu-cxx11.tar.gz"
